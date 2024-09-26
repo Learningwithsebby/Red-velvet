@@ -1,0 +1,17 @@
+String str = "";
+str += "<!doctype html>";
+str += "<html>";
+str += "<head>";
+str += " <title>Red velvet</title>";
+str += " <link rel=\"stylesheet\" href=\"style.css\">";
+str += "</head>";
+str += "<body>";
+str += "";
+str += " <script src=\"script.js\"></script>";
+str += " </body>";
+str += "</html>";
+str += "<img";
+str += " src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJIPlAbAwKcSoXlmjD2fo3vCwEfHy_UJ_Mhg&s\"";
+str += "/>";
+str += "<h1>Red velvet</h1>no";
+str += "there's currently no APKs because this is the beta version";
